@@ -1,11 +1,8 @@
-# My first project
+# Мой первый проект
 
-## How to learn
-Alt-H1
+## Научиться учиться
 ------
-Single-page website.
-The project uses html and css technologies and BEM methodology.
-
-Alt-H1
+Одностраничный сайт.
+В проекте использованы технологии html, css, flex.
 ------
-The development plans include the use of adaptive layout.
+Развитие проекта планируется путем подключения адаптивной верстки.
